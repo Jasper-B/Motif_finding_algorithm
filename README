@@ -1,1 +1,3 @@
-Transcriptional regulator motif in Mycobacterium tuberculosis
+Project date: 07-02-2023
+
+In this project I made a motif finding algorithm to find the transcriptional binding site for low-oxygen sporulation of Mycobacterium tuberculosis. For this I made my own version of the Gibbs sampling algorithm and used cross-entropy to score potential motifs.
